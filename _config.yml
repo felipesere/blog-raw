@@ -1,18 +1,14 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+title: Felipe Sere
+description: 'My path to craftsmanship.'
+url: 'http://felipesere.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Felipe Sere'
+  email: felipe@8thlight.com
+  twitter_username: felipesere
+  github_username:  felipesere
 
 defaults:
   -
