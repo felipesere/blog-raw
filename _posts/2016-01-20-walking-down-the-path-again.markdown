@@ -1,8 +1,8 @@
 ---
 title:  "Walking down the path again"
 date:   2016-01-20 13:04:23
-categories: []
-tags: []
+categories: [personal]
+tags: [personal]
 ---
 
 I've decided to start blogging again.
