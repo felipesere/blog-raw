@@ -32,4 +32,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate', 'jekyll-twitter-plugin']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'live']
+exclude: ['Rakefile', 'README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'live']
