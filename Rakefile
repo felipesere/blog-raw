@@ -19,8 +19,10 @@ eos
   end
 end
 
-
-
 task :preview do
   sh "bundle exec jekyll serve -w"
+end
+
+task :build do
+  sh "bundle exec jekyll build -d live"
 end
