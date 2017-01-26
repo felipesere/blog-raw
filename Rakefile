@@ -20,3 +20,7 @@ eos
 end
 
 
+
+task :preview do
+  sh "bundle exec jekyll serve -w"
+end
