@@ -17,7 +17,7 @@ Using `--fail-fast` limits the amount of failures we need to concentrate at any 
 But there is more.
 Switching between your editor and terminal, followed by running `rspec --fail-fast` (potentailly hitting up-arrow multiple times) adds
 an additional context switch and is distracting. I catch myself "over-tabbing" to my twitter timeline in Chrome every once in a while, just saying.
-What we we didn't have to manually run our tests?
+What if we didn't have to manually run our tests?
 Enter [rerun](https://github.com/alexch/rerun).
 Install it with
 
@@ -42,10 +42,11 @@ For example, if you install [terminal-notifier](https://github.com/julienXX/term
 pop up in the notification center. This is nice if you work in Sublime or Atom and you feel like you'd loose too much screen space
 by having a command line open in parallel.
 
-Another cool parameter is `-p "**/*.something"` which lets you watch for certain files. Rerun is setup to watch for common files (Ruby, SCSS, JS, and some others),
+Another cool parameter is `-p "**/*.something"` which lets you watch for certain files.
+Rerun is setup to watch for common files (Ruby, SCSS, JS, and some others),
 but it is happy to work with any pattern you want.
 
-So there you, have `rerun` run your tests for you.
+So there you go, have `rerun` run your tests for you!
 
 
 
