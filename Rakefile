@@ -10,6 +10,7 @@ title: #{title}
 date: #{time}
 categories: []
 tags: []
+published: false
 ---
 
 Some text...
@@ -20,7 +21,7 @@ eos
 end
 
 task :preview do
-  sh "bundle exec jekyll serve -w"
+  sh "bundle exec jekyll serve -w --unpublished"
 end
 
 task :build do
