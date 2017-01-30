@@ -8,7 +8,7 @@ published: true
 
 Over the last year, I have attended 3 or 4 Release Train Planning (RTP) meetings. In these meetings, the entire team came together and planned out the next release. A release is roughly a three month period, made up of 6 two-week iterations. The way these meetings are run is that the objective of a given release is introduced by a business representative and teams break down the work into stories which are mapped against the 6 iterations. All the teams taking part in the release then come back together to present their plan, synchronize it with the other teams and commit to results and dates.
 
-The rigidity of this ritual struck me as odd. When the mics were off, people spoke about these plans and the fact that they always change anyway as the deadline approaches. No real surprise there. The odd thing was that everybody went along, put effort into a plan, re-jigged it to line up with another teams plan, and then committed to delivering this fine master-piece of Gant charts. All in a 3-day effort y about 50 or 60 people.
+The rigidity of this ritual struck me as odd. When the mics were off, people spoke about these plans and the fact that they always change anyway as the deadline approaches. No real surprise there. The odd thing was that everybody went along, put effort into a plan, re-jigged it to line up with another teams plan, and then committed to delivering this fine master-piece of Gantt charts. All in a 3-day effort by about 50 or 60 people.
 
 Somebody somewhere must have left those RTP feeling happy and confident in the plans. But knowing that future plans have an increasing chance of not coming to fruition, that time spent planning could have been spent elsewhere. 
 
@@ -19,7 +19,7 @@ Uncertainty is an important factor when planning. Not only is there uncertainty 
 
 
 
-Plans made for the next couple of days are fairly certain, while plans for things months from now are pretty much anyone's guess.  Think about the last 5-6 months of your last project: requirements changed, deadlines moved, earlier tasks unearthed a new set of challenges or unexpected opportunities. All of this will put your perfectly drawn Gant chart out of whack.
+Plans made for the next couple of days are fairly certain, while plans for things months from now are pretty much anyone's guess.  Think about the last 5-6 months of your last project: requirements changed, deadlines moved, earlier tasks unearthed a new set of challenges or unexpected opportunities. All of this will put your perfectly drawn Gantt chart out of whack.
 
 Let's return to the RTP, where we planned our next 4-5 months of development, cramming each iteration with stories until they are full. The image below shows a fictional team board, with the necessary stories for the next 6 iterations, overlayed by a red line showing the increasing doubts as plans are further in the future:
 
