@@ -4,6 +4,8 @@ description: 'My path to craftsmanship.'
 url: 'http://felipesere.github.io'
 baseurl: '/'
 
+google_analytics: 'UA-91069061-1'
+
 author:
   name: 'Felipe Sere'
   email: felipe@8thlight.com
