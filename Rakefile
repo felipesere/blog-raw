@@ -25,5 +25,5 @@ task :preview do
 end
 
 task :build do
-  sh "bundle exec jekyll build -d live"
+  sh "bundle exec jekyll build --incremental -d live"
 end
