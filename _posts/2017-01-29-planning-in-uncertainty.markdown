@@ -37,3 +37,6 @@ As you can see, the planning horizon was kept short: next iteration and a story 
 
 It is tempting to go for the _big plan_. To lay out all the cards on the table. To get everybody together, and for once get everybody to agree to a plan _and stick to it_. Sadly, the underlying closed-world assumptions (we know all the facts in advance) rarely holds true. Smaller, more frequent plans give you the necessary freedom to change direction. To adjust and react to new events. I urge you to give it a try. The beauty of trying this idea: if it doesn't work out for you, you have at most lost an iteration or two, instead of an entire release. Isn't that something worth trying?
 
+
+
+_**Experts Disclaimer:** If you your first thought after reading this is "We don't do any RTPs at all!" and planning iterations in advance is not something you would recommend, I agree. For some teams, getting from half-yearly or quarterly releases down to fortnightly iterations is already an achievement. This article is intended for readers beginning their journey to a more continuous delivery of value._
