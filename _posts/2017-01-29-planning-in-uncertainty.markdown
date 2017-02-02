@@ -4,6 +4,7 @@ date: 2017-01-30 07:37:57
 categories: []
 tags: []
 published: true
+image: images/doubt-and-plans.jpg
 ---
 
 Over the last year, I have attended 3 or 4 Release Train Planning (RTP) meetings. In these meetings, the entire team came together and planned out the next release. A release is roughly a three month period, made up of 6 two-week iterations. The way these meetings are run is that the objective of a given release is introduced by a business representative and teams break down the work into stories which are mapped against the 6 iterations. All the teams taking part in the release then come back together to present their plan, synchronize it with the other teams and commit to results and dates.
