@@ -6,11 +6,11 @@
 {% else %}
   <meta name="twitter:title" content="{{ site.title }}">
 {% endif %}
-{% if page.url %}
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-{% endif %}
-{% if page.description %}
-  <meta name="twitter:description" content="{{ page.description }}">
+
+<meta name="twitter:url" content="{{page.url | prepend: site.url }}">
+
+{% if page.excerpt %}
+  <meta name="twitter:description" content="{{ page.excerpt | strip_html | xml_escape | truncate: 150 }}">
 {% else %}
   <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
