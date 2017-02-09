@@ -3,7 +3,7 @@ title: Contemplating the Backlog
 date: 2017-02-05 22:03:35
 categories: []
 tags: []
-published: false
+published: true
 image: images/contemplating-user-stories.jpg
 ---
 
