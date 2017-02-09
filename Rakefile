@@ -27,3 +27,7 @@ end
 task :build do
   sh "bundle exec jekyll build --incremental -d live"
 end
+
+task :rebuild do
+  sh "bundle exec jekyll build -d live"
+end
