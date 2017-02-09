@@ -1,7 +1,7 @@
 ---
 title: Planning In Uncertainty
 date: 2017-01-30 07:37:57
-categories: []
+categories: [team, agile]
 tags: []
 published: true
 image: images/doubt-and-plans.jpg
