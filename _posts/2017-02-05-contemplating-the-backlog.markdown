@@ -1,5 +1,5 @@
 ---
-title: The Value Of A Story
+title: Contemplating The Backlog
 date: 2017-02-08 22:03:35
 categories: [team, agile]
 tags: []
