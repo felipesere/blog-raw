@@ -7,7 +7,7 @@ published: true
 image: images/contemplating-user-stories.jpg
 ---
 
-We were recently talking about the backlog of user stories for a project on the near horizon. We wanted to create an exemplary backlog with meaningful stories that would allow the team succeed. The backlog should also show the less technical side of the organisation that they needn't deliver all functionality in one large push. When the question of which story to tackle first came up, "do the most important thing" didn't feel good enough.
+We were recently talking about the backlog of user stories for a project on the near horizon. We wanted to create an exemplary backlog with meaningful stories that would allow the team to succeed. The backlog should also show the less technical side of the organisation that they needn't deliver all functionality in one large push. When the question of which story to tackle first came up, "do the most important thing" didn't feel good enough.
 
 The user story backlog is linear so that the team has an obvious point from where to pull in the next piece of work. Yet there are many aspects that make a story important:
 
@@ -43,4 +43,4 @@ If you are treading in uncharted territory prioritising stories that will unlock
 
 All three of the above approaches are valid, and as usual the key is in finding the right blend for the current backlog. As the project progresses through different phases, a different aspect of a user story will have more pull. Teams in the early development stages will probably benefit the most from a few knowledge stories to find their way through the technology and domain. As the project begins to take shape, recuperating some of the costs and building trust with stakeholders will likely mean a shift towards reward stories. Finally, as the project reaches maturity, a more careful risk-driven approach might be better suited. Granted that at any moment the focus can shift. Understanding that stories can fall into any (and maybe even many) of the categories gives us a tool to compare and better understand our backlog.
 
-_**Extra**: If you want to read more about different phases of a team/project and how that affects estimates,teams, and money and may others, take a look at [Kent Becks 3X](https://www.facebook.com/notes/kent-beck/comparing-explore-expand-and-extract-topics-in-3x/1241983035834558) and how that is evolving._
+_**Extra**: If you want to read more about different phases of a team/project and how that affects estimates,teams, and money and many others, take a look at [Kent Becks 3X](https://www.facebook.com/notes/kent-beck/comparing-explore-expand-and-extract-topics-in-3x/1241983035834558) and how that is evolving._
