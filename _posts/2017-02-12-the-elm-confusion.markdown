@@ -2,8 +2,8 @@
 title: The ELM Confusion
 date: 2017-02-12 18:00:22
 categories: []
-tags: []
-published: false
+tags: [elm]
+published: true
 ---
 
 Today I think I may (possibly) have understood something about ELM. Before we look at some code, here is the 5sec intro into ELM: ELM is essentially a Haskell that runs in the browser. It makes an enormous effort to have a friendly and helpful compiler. And it succeeds at it! It promises zero runtime errors, has a strong type system and comes with a batteries-included architecture that is supposed to result in easy to maintain web apps.
